@@ -40,4 +40,6 @@ https://docs.oracle.com/javase/7/docs/api/java/lang/Comparable.html
 
 http://www.mkyong.com/java/java-date-and-calendar-examples/
 
-Lecture notes of BBM102 http://web.cs.hacettepe.edu.tr/~bbm102/ http://stackoverflow.com/
+Lecture notes of BBM102 http://web.cs.hacettepe.edu.tr/~bbm102/ 
+
+http://stackoverflow.com/
